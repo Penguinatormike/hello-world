@@ -1,2 +1,3 @@
 # hello-world
-My name is mike and im noob
+This is Michael Peng
+T00055798
